@@ -15,7 +15,7 @@ TC1
     Click Element     link=Register
     Input Text        id=input-firstname       SP
     Input Text        id=input-lastname        FM
-    Input Text        id=input-email           spfm1237@gmail.com
+    Input Text        id=input-email           spfm143@gmail.com
     Input Text        id=input-telephone       9116613190
     Input Password    id=input-password        spfm1916613
     Input Password    id=input-confirm         spfm1916613
